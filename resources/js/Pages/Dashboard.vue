@@ -1,6 +1,5 @@
 <script setup>
 import MyLayout from '@/Layouts/Layout.vue';
-import { Head } from '@inertiajs/inertia-vue3';
 </script>
 
 <template>
